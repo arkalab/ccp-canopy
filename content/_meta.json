@@ -1,5 +1,9 @@
 [
   {
+    "path": "/essays",
+    "text": "Essays"
+  },
+  {
     "path": "/works",
     "text": "Works"
   },
